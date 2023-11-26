@@ -1,1 +1,3 @@
-from _tkinter import *
+from _tkinter import*
+
+print("kalalka")
